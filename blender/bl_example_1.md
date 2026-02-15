@@ -10,7 +10,7 @@ Role: Technical Tools Developer
 
 ## Video
 <iframe width="560" height="315"
-src="https://youtu.be/Q3VpxWHUhrI">
+src="https://www.youtube.com/embed/Q3VpxWHUhrI">
 </iframe>
 
 ## Description
